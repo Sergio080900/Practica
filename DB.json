@@ -1,0 +1,40 @@
+{
+  "estudiantes": [
+    {
+      "id": 1,
+      "first_name": "Sergio",
+      "last_name": "Vazquez",
+      "ip_address": "215.227.85.201"
+    },
+    {
+      "id": 2,
+      "first_name": "David",
+      "last_name": "Zapata",
+      "ip_address": "137.223.249.63"
+    },
+    {
+      "id": 3,
+      "first_name": "Raul",
+      "last_name": "Gutierrez",
+      "ip_address": "46.139.153.20"
+    },
+    {
+      "id": 4,
+      "first_name": "Annetta",
+      "last_name": "Perez",
+      "ip_address": "174.46.236.242"
+    },
+    {
+      "id": 5,
+      "first_name": "Aime",
+      "last_name": "Hernandez",
+      "ip_address": "127.64.187.73"
+    },
+    {
+      "id": 6,
+      "first_name": "Roberto",
+      "last_name": "Ramirez",
+      "ip_address": "110.64.23.50"
+    }
+  ]
+}
